@@ -48,7 +48,7 @@ gem 'omniauth-facebook'
 
 gem 'dotenv-rails'
 
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12'
 
 gem 'rb-readline'
 
